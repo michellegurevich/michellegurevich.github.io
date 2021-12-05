@@ -4,7 +4,9 @@
 
 ## Contact
 [CV](./cv.html)
+\
 Email: [{{ site.email }}](mailto:{{ site.email }})
+\
 Phone: +44 (0)7519 386283
 
 ## Publications
@@ -23,10 +25,10 @@ Coding assignment completed as part of Research Skills course during MSc at Impe
 <p><a href="https://github.com/michellegurevich/chaosandfractals">Code</a></p>
 <p><a href="./cf_writeup.html">Write-up</a></p>
 <p>
-	<embed src="./files/cf_figure1.png" width="300px"/>
-	<embed src="./files/cf_figure2.png" width="300px"/>
-	<embed src="./files/cf_figure3.png" width="300px"/>
-	<embed src="./files/cf_figure4.png" width="300px"/>
+	<img src="./files/cf_figure1.png" width="300px"/>
+	<img src="./files/cf_figure2.png" width="300px"/>
+	<img src="./files/cf_figure3.png" width="300px"/>
+	<img src="./files/cf_figure4.png" width="300px"/>
 </p>
 
 <h1>Coding assignments</h1>
